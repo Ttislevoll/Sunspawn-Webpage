@@ -8,7 +8,7 @@
 node_modules/ 
 # testing
 /coverage
-
+api/venv
 # production
 
 .env.local
